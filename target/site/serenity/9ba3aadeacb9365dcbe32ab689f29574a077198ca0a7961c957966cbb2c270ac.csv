@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Gorest CURD test with steps","This will create a new user","SUCCESS","2022-06-07T11:13:46.812+01:00[Europe/London]","0.0","11.09"
+"Gorest CURD test with steps","Verify if the user was added to the application for name=Hema Kiyada","SUCCESS","2022-06-07T11:13:58.034+01:00[Europe/London]","0.0","2.76"
+"Gorest CURD test with steps","Update the user information and verify the updated information for ID=3866","SUCCESS","2022-06-07T11:14:00.794+01:00[Europe/London]","0.0","1.02"
+"Gorest CURD test with steps","Delete the user and verify if the user is deleted! for ID=3868","SUCCESS","2022-06-07T11:14:01.819+01:00[Europe/London]","0.0","1.69"
